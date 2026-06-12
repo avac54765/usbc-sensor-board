@@ -41,7 +41,8 @@ This board will:
 
 - Regulator = MIC5365-3.3YC5-TR
   - 3.3V LDO
-![Uploading image.png…]()
+<img width="3025" height="1597" alt="image" src="https://github.com/user-attachments/assets/cce05b78-8d38-430b-8a1b-9748511d6712" />
+
 
 
    
