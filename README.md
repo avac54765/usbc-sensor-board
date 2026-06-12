@@ -39,10 +39,10 @@ This board will:
   - popular
   - I2C, therefore can communicate with ATmega328PB
 
-  - Regulator = AP2112K-3.3
-    - 3.3V LDO
+- Regulator = AP2112K-3.3
+  - 3.3V LDO
    
-  - 2 LEDS
-    - D1 for power
-    - D2 for status/heartbeat
+- 2 LEDS
+  - D1 for power
+  - D2 for status/heartbeat
 
