@@ -39,9 +39,10 @@ This board will:
   - popular
   - I2C, therefore can communicate with ATmega328PB
 
-- Regulator = MIC5501-3.0YM5-TR
+- Regulator = MIC5365-3.3YC5-TR
   - 3.3V LDO
- <img width="3070" height="1605" alt="image" src="https://github.com/user-attachments/assets/f2bbf3e1-cce6-43ba-95c4-75ceafbe1550" />
+![Uploading image.png…]()
+
 
    
 - 2 LEDS
