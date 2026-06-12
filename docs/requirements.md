@@ -1,7 +1,7 @@
 
 
-## PURPOSE:
-Design a PCB to measure the current temperature, pressure, and humidity of the environment, powered with a USB-C input. 
+## Requirements
+
 This board will:
 1. Be powered by USB-C (5V)
 2. regulate power to 3.3 V
