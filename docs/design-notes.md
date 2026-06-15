@@ -30,6 +30,21 @@
    
 - 2 LEDS
   - D1 for power
+    - Green LED
+    <img width="2000" alt="Green LED Digikey" src="GREENLED.png" />
+    - close to the regulator output (3.3 V rail), not directly on USB 5 V to ensure that regulator is working and correctly supplying a 3.3 V rail
+
   - D2 for status/heartbeat
+    - Red LED
+    <img width="2000" alt="Red LED Digikey" src="REDLED.png" />
+
+  - 1k resistors for both LEDs
+    <img width="2000" alt="Red LED Digikey" src="1KRESISTOR.png" />
+    - allows for enough current for visibility, but saves power
+    - 3.3 V supply after regulator, drops 2 V across LED, leaves 1.3 V for resistor
+    - desired current above 1mA for visibility, 1.3 mA for nice number and easier visibility
+    - Ohm's Law: R = V/I = 1.3/1.3 mA = 1k resistor
+
+
 
 
