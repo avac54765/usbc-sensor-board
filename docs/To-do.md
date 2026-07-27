@@ -6,5 +6,7 @@
 
 - Find capacitors, resistors, header for board
 
-- Altium schematic and PCB process
-- add BOM and other files to project
+- Altium Designer schematic capture
+- Altium Designer PCB layout
+- Altium component symbols and footprints
+- Electrical Rules Check and Design Rules Check

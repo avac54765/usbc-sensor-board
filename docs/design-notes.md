@@ -56,7 +56,7 @@
     - Ohm's Law: R = V/I = 1.3/1.3 mA = 1k resistor
 
 
-  - 2 4.7 k pull up resisotrs for the BME280 sensor
+  - 2 4.7 k pull up resistors for the BME280 sensor
     - as stated in datasheet (normal value)
     <img width="2000" alt="Red LED Digikey" src="../images/4.7_resistor_surface.png" />
 
