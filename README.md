@@ -22,10 +22,10 @@ Design a PCB to measure the current temperature, pressure, and humidity of the e
 - LTspice power simulation in progress
 - Schematic in progress
 
-# SEE DETAILS HERE:  
-[Design Notes](//docs/design-notes.md)
-[Project Requirements](//docs/requirements.md)
-[To-D0](//docs/To-do.md)
+## See Details Here:  
+[Design Notes](//docs/design-notes.md)\
+[Project Requirements](//docs/requirements.md)\
+[To-Do](//docs/To-do.md)
 
 
 
