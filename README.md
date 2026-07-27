@@ -23,7 +23,7 @@ Design a PCB to measure the current temperature, pressure, and humidity of the e
 - Schematic in progress
 
 ## See Details Here:  
-[Design Notes](docs\design-notes.md)\
+[Design Notes](C:\Users\Ava\OneDrive\environmental_board\usbc-sensor-board\docs\design-notes.md)\
 [Project Requirements](docs\requirements.md)\
 [To-Do](docs\To-do.md)
 
