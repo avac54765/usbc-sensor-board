@@ -1,10 +1,10 @@
 # To-Do
 
 - finish LT Spice simulation
-    - add to LTspice folder?
+    - add to LTspice folder
     - reflection/analysis
 
 - Find capacitors, resistors, header for board
 
-- KiCad schematic
-- KiCad footprint
+- Altium schematic and PCB process
+- add BOM and other files to project
