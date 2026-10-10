@@ -23,7 +23,14 @@
   - NOTE: a direct connection between CSB and Vddio required
   - 2 capacitors
   - 2 pull up resistors
-
+- NEW SENSOR?
+  - SHT41A-BD1B-R3
+  - only measures temp and humidity however is in stock
+  - I2C to communicate with ATmega
+  - <img width="2000" alt="image" src="../images/new_sensor.png" />
+ <img width="2000" alt="Sensor wiring I2C" src="../images/SHT_typ_app.png" />
+ - 2 10k resistors
+ - 100 nF capacitor
 
 - Regulator = MIC5504-3.3YM5-TR
   - 3.3V LDO
